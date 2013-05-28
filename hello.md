@@ -1,4 +1,4 @@
-<p> Some HTML</p>
+########## Some HTML
 
 Hello world! This is an HTML to Markdown converter script.
 
