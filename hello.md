@@ -1,16 +1,9 @@
-### Some HTML
+<p> Some HTML</p>
 
 Hello world! This is an HTML to Markdown converter script.
 
 <table>
 <tr><td>
- 123
-</td><td>
- 123
-</td></tr>
-<tr><td>
- 123
-</td><td>
  123
 </td></tr>
 </table>
